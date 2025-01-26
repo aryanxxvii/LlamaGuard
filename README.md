@@ -1,7 +1,7 @@
 # LlamaGuard
 
 LlamaGuard is Llama 3.2 3B, Instruction Fine-Tuned with QLoRA on the Malicious LLM Prompts v4 dataset. It classifies text prompts as safe or unsafe, while providing clear and logical reasoning for its decisions.
-
+Find it on Hugging Face: https://huggingface.co/aryanxxvii/llamaguard
 ## Features
 
 - Explainability: Offers detailed reasoning for every decision to ensure transparency and trust.
